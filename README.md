@@ -1,5 +1,6 @@
 # PowerBI Project from Maven Analytics 
-Below are screenshots of the homepage.  
+
+Below is a screenshot of the homepage created: 
 
 ![FrontpageDashboard](https://github.com/user-attachments/assets/8d67b443-ca33-41d7-aae1-665c9388282f)
 
