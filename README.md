@@ -13,11 +13,12 @@ The highest profit was generated from Bike kales and the least from clothing at 
 
 The Key Influencer Chart helps identify factors that impact a particular outcome. For example, in this report the Key influence chart displays factors affecting the quantity_sold to increase/decrease. It can be seen that the Quantity_sold is more likely to increase when the product category incvolves accessories. According to the average line, 6.95% of the other influencers such as Clothing and Bikes caused quantity sold to increase. 
 
-The decomposition tree was created to get the root-cause analysis of the total revenue by country, product category and age group. The country used was Australia and 
+The decomposition tree was created to get the root-cause analysis of the total revenue by country, product category and age group. Using the drill-through function from the map in the executive view we can click on a specific country and learn more about the total reveneu generated based on country, product category and age group. 
 
+The last page of the project, involved using clustering to identify the different groups formed based on the relationship of qunatity sold and total cost. This was analyzed by also considering the different regions and the quantity of items sold. Three distinct clusters were formed showing how with an increase in quanity sold the total costs were higher. 
 
+This was a very comprehensive project, which greatly helped me with my preparation and helped me ace my certification. Hope you find this information useful. 
 
-![DataModel](https://github.com/user-attachments/assets/8b3d0f88-3ce1-4a03-8ca1-06b198bccbac)
 
 
 
