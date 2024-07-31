@@ -17,6 +17,8 @@ The decomposition tree was created to get the root-cause analysis of the total r
 
 The last page of the project, involved using clustering to identify the different groups formed based on the relationship of qunatity sold and total cost. This was analyzed by also considering the different regions and the quantity of items sold. Three distinct clusters were formed showing how with an increase in quanity sold the total costs were higher. 
 
+Once the project in Desktop was completed I was able to upload it to Power BI Service, look at the security groups, create a dashboard, an app, and paginated reports, inclduing all the information from the dashboard. 
+
 This was a very comprehensive project, which greatly helped me with my preparation and helped me ace my certification. Hope you find this information useful. 
 
 
