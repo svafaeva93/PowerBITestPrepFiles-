@@ -1,6 +1,4 @@
-# Overview of PowerBI Concepts in preparation for the Certification.
-Used Guided Project from Maven Analytics. 
-
+# PowerBI Project from Maven Analytics 
 Below are screenshots of the homepage.  
 
 ![FrontpageDashboard](https://github.com/user-attachments/assets/8d67b443-ca33-41d7-aae1-665c9388282f)
